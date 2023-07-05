@@ -1,0 +1,51 @@
+@media (max-width: 560px) {
+    
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+
+
+
+
+
+
+.pagina1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(18, 119, 163)}
+
+    .principal{
+
+   
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+       
+       
+        padding-top: 50%;
+        height: 100vh;
+        background-color: rgb(18, 119, 163);
+    }
+
+    .pagina2 {
+     
+       
+        margin-bottom: 0%;}
+    
+
+
+.pagina3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-color: rgb(18, 119, 163);}
+
+        h2{font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;}
+}
